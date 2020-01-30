@@ -1,3 +1,5 @@
 <?php
-echo "hello <strong>Mother Fuck</strong>";
+echo "hello <strong>Mother Fuckres</strong>";
+echo "Ola fdp";
+
 ?>
