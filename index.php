@@ -1,3 +1,3 @@
 <?php
-echo "hello <strong>My friend</strong>";
+echo "hello <strong>Mother Fuck</strong>";
 ?>
